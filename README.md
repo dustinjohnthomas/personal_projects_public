@@ -1,2 +1,2 @@
-# personal_projects_public
-A collection of personal projects
+# Personal Projects
+Hey! Thanks for checking out my GitHub page. Feel free to get in contact at dustinjohnthomas@gmail.com
